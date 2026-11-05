@@ -1,6 +1,15 @@
-# Regent Theology v4 Locked
+# Regent Theology
 
-Deep #2E0A1C, Primary #4C0C2E, Mid #7A2348, Gray #8E8886, Paper #FFFEFB, Ink #1A1A18, Gold #C6A46A
-Dark BG #0F0D0F, Surface #1A1518, Text #F2ECE6
+Initial website scaffold for Regent Theology. Content and logo placeholders are intentional.
 
-Push: create repo regent-standards, unzip, copy index.html to root, git push, enable Pages.
+- `index.html`: supplied GitHub Pages starter, with page title, repository name, and project-relative library links corrected.
+- `design-reference/`: preserved v4 visual reference.
+- `originals/`: unchanged starter files retained for recovery.
+- `assets/`: supplied banner.
+- Library pages are explicit placeholders pending approved content.
+
+## Publish
+In repository Settings > Pages, choose Deploy from a branch, main, and /(root), then Save.
+
+## Status
+Scaffold only; no doctrinal copy has been newly drafted. Design and source files remain preserved.
