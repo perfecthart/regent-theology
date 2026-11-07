@@ -1,0 +1,48 @@
+:root {
+  --regent-deep: #2E0A1C;
+  --regent-primary: #4C0C2E;
+  --regent-mid: #7A2348;
+  --regent-gray: #8E8886;
+  --regent-paper: #FFFEFB;
+  --regent-ink: #1A1A18;
+  --regent-gold: #C6A46A;
+  --regent-gold-alt: #B89B5E;
+  --regent-dark-bg: #0F0D0F;
+  --regent-dark-surface: #1A1518;
+  --regent-dark-surface-2: #211A1E;
+  --regent-dark-text: #F2ECE6;
+  --regent-dark-rule: #2C1E24;
+  --regent-dark-button: #6A1A30;
+  --font-body: 'EB Garamond', Georgia, serif;
+  --font-display: 'Cormorant Garamond', 'Times New Roman', serif;
+}
+
+{
+  "version": "v4-locked",
+  "colors": {
+    "deep": "#2E0A1C",
+    "primary": "#4C0C2E",
+    "mid": "#7A2348",
+    "gray": "#8E8886",
+    "paper": "#FFFEFB",
+    "ink": "#1A1A18",
+    "gold": "#C6A46A",
+    "gold_alt": "#B89B5E",
+    "dark": {
+      "bg": "#0F0D0F",
+      "surface": "#1A1518",
+      "surface_2": "#211A1E",
+      "text": "#F2ECE6",
+      "rule": "#2C1E24",
+      "button": "#6A1A30"
+    }
+  },
+  "typography": {
+    "body": "EB Garamond",
+    "display": "Cormorant Garamond",
+    "substack_body": "Classic Serif",
+    "substack_title": "Fancy Serif / Serif"
+  },
+  "ratio": "70% paper / 20% ink / 8% gray / 2% purple as punctuation",
+  "notes": "White must be luminous #FFFEFB not stark #FFFFFF nor creamy #FDFBF7. Dark mode charcoal-black complements, not plum-purple invert. Gold 2% pop only."
+}

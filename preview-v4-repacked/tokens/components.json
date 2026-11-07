@@ -1,0 +1,33 @@
+{
+  "version": "v4",
+  "components": [
+    {
+      "name": "Header",
+      "notes": "Deep #2E0A1C, logo wordmark"
+    },
+    {
+      "name": "Nav",
+      "notes": "Breviary / Confession / Standards / TRW / Timeline"
+    },
+    {
+      "name": "Hero",
+      "notes": "Branded Regent Theology logo - WHITE-GRAY two-tone on Deep for dark, purple on paper for light"
+    },
+    {
+      "name": "Cards",
+      "notes": "Paper #FFFEFB, ink #1A1A18, gray #8E8886 rule"
+    },
+    {
+      "name": "Footer Deep",
+      "notes": "BG #2E0A1C"
+    },
+    {
+      "name": "Sigil",
+      "notes": "Crown + reed emblem - solid variants only, hold for manual trace"
+    },
+    {
+      "name": "Hairline Rule Gold",
+      "notes": "#C6A46A 1px"
+    }
+  ]
+}
